@@ -34,6 +34,7 @@ export default function App() {
         <VideoDemo 
           videoUrl={demoVideo}
           title="See Student Companion in Action"
+          description="See Student Companion AI in action"
         />
         <Mission />
         <Prototype />
